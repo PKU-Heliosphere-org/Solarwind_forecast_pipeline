@@ -1,0 +1,8 @@
+astropy==6.0.0
+beautifulsoup4==4.12.3
+numpy==2.0.1
+pandas==2.2.2
+pfsspy==1.2.0
+Requests==2.32.3
+sunpy==5.1.2
+torch==2.4.0
